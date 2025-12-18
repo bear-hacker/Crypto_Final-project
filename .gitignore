@@ -1,0 +1,18 @@
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive password manager data
+password_manager/data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (if any)
+venv/
+.myenv/
