@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-sys.dont_write_bytecode = True  # prevent __pycache__
 
 from pathlib import Path
 from getpass import getpass
