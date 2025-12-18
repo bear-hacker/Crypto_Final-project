@@ -7,7 +7,6 @@
 Thumbs.db
 
 # Sensitive password manager data
-password_manager/data/
 password_manager/data/master.json
 password_manager/data/vault.data
 
